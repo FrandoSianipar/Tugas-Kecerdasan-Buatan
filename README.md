@@ -1,9 +1,9 @@
 # Tugas-Kecerdasan-Buatan
 Tugas AI
 
-Nama           :  Frando Yosua Sianipar
-NIM             :  131113077
-Kelas            :  TP B Pagi
+Nama        :  Frando Yosua Sianipar
+NIM         :  131113077
+Kelas       :  TP B Pagi
 Mata Kuliah : Kecerdasan Buatan
 
 1.	Apakah Anda Setuju Atau tidak dengan pendapat Turing ?
